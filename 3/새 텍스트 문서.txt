@@ -1,0 +1,4 @@
+IMG_1740 ~ 1760 stop
+IMG_1761 ~ 1781 move
+IMG_1783 ~ 1791 bound
+IMG_1792 ~ 1800 throw
